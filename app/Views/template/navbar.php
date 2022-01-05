@@ -1,4 +1,4 @@
-<?= $this->extend('template/main-template') ?>
+<?= $this->extend('template/main') ?>
 
 <?= $this->section('navbar') ?>
 <!-- Navbar -->
